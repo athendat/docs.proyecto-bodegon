@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[7753],{8043:o=>{o.exports=JSON.parse('{"allTagsPath":"/docs.proyecto-bodegon/blog/tags","slug":"/docs.proyecto-bodegon/blog/tags/docusaurus","name":"docusaurus","count":4,"permalink":"/docs.proyecto-bodegon/blog/tags/docusaurus"}')}}]);
